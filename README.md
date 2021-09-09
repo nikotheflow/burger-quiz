@@ -1,2 +1,9 @@
-# burger-quiz
-JavaScript study project of Glo Academy
+# Burger quiz
+Учебный проект Glo Academy по JavaScript, тест в формате викторины. Выполнен в рамках трёхдневного интенсива. 
+
+## Выполнил проект - Иван Никитенко.
+
+### Технологии, используемые в проекте:
+- HTML
+- CSS
+- JavaScript
